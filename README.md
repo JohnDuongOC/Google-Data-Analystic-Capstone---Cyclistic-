@@ -1,4 +1,4 @@
-# GoogleDataAnalystic apstone - Cyclistic 
+# GoogleData Analytics Capstone - Cyclistic 
 
 This is y Google Data Analyst capstone project where I was tasked with providing insights from a dataset to help create a marketing campaign. In this project I used Excel for data cleaning where I organized the time format, deleted blank unusable rows, and found null values from improper calculations. Followed by using SQL to derive actionable insights that I then later visualized with Tableau.
 
