@@ -10,7 +10,7 @@ Design a new marketing strategy to convert casual riders into annual members
 2. Why would casual riders buy Cyclistic annual memberships?
 3. How can Cyclistic use digital media to influence casual riders to become members?
 
-### SQL
+#### SQL
 ```
 --Most popular bike type between members
 SELECT member_casual, rideable_type, COUNT(rideable_type) AS count
