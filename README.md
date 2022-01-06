@@ -79,9 +79,9 @@ Group BY member_casual
 ![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/5558f020-3ac6-4c60-84c7-5c627c2d05ad/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20211121%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20211121T181755Z&X-Amz-Expires=86400&X-Amz-Signature=caada5aba3184e809c8568dd907a166339287c491e9090de741ee966c8e9b18e&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject)
 
 ### Tableau
-![](./images/PieChart.png)
-![](./images/stat2.JPG)
-![](./images/PopularMap.png)
-![](./images/PopularDays.png)
-![](./images/PreferredBikes.png)
-![](./images/HighAvgDays.png)
+![](./PieChart.png)
+![](./stat2.JPG)
+![](./PopularMap.png)
+![](./PopularDays.png)
+![](./PreferredBikes.png)
+![](./HighAvgDays.png)
